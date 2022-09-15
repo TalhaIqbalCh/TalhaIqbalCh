@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am [Talha Iqbal](https://TalhaIqbalCh.github.io)
+### Hi there 👋 I am [Talha Iqbal](https://github.com/TalhaIqbalCh/TalhaIqbalCh/tree/main)
 
 <div>
  <p>
