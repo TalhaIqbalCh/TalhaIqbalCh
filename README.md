@@ -23,7 +23,5 @@ I am 18 years old and I am a  major in Computer Science and Mathematics with a c
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
-Leave a ⭐️ if you like this template and want to modify it for yourself!
-----
 
 Last Edited on: 15/09/2022
